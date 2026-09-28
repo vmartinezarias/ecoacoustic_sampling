@@ -1,4 +1,4 @@
-# MILEVA — Mapping-Informed Landscape Ecotopes for Versatile Acoustic Sampling
+# MILEVA: Mapping-Informed Landscape Ecotopes for Versatile Acoustic Sampling
 
 ![MILEVA icon: flag](icon.svg)  
 ![Grupo Herpetológico de Antioquia](logo_gha.png)

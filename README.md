@@ -75,8 +75,6 @@ MILEVA version 0.4.1 has been **tested in QGIS 4.x and the implemented workflow 
 
 SLIC segmentation is intentionally not executed within the plugin. External SLIC polygons, such as those produced following the S10 workflow, can instead be imported and used in the corresponding sampling step.
 
-The QGIS plugin entry and Processing tools display the MILEVA flag icon, while the **MILEVA · Home** window displays the full GHA logo.
-
 Before applying the workflow to a new study area, a short validation run is recommended. Use a small proxy raster in an appropriate projected CRS, such as EPSG:9377 in Colombia; generate the complete and random scenarios; verify the specified point separation and confirm that random points are a subset of the complete grid; calculate proxy means for both datasets; and compare the resulting layers directly using the statistical comparison tool.
 
 Basins and Halfbasins can also be generated to verify that their corresponding outputs and naming conventions are correctly produced.

@@ -1,0 +1,25 @@
+[general]
+name=MILEVA
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=MILEVA - Mapping-Informed Landscape Ecotopes for Versatile Acoustic Sampling. Spatial sampling design for ecoacoustic studies (Martinez-Arias et al. 2026).
+version=0.4.1
+author=Victor M. Martínez-Arias, Carolina Paniagua-Villada, Maria José Guerrero, Juan Daza
+email=vmanuel.martinez@udea.edu.co
+about=MILEVA implements parts of the published spatial sampling workflow in QGIS Processing.
+    It offers landscape proxy rescaling, watershed tessellation, complete and random sampling, pole-based
+    recorder selection, buffered proxy means, and comparison across separate layers.
+    SLIC execution is disabled; existing SLIC polygons can be used as input to point selection.
+    Grupo Herpetológico de Antioquia - GHA (https://grupoherpetologicodeantioquia.org/).
+    Based on Martínez-Arias et al. (2026), Landscape Ecology 41:126,
+    https://doi.org/10.1007/s10980-026-02372-5 (Supplementary Information S10).
+
+icon=icon.svg
+homepage=https://grupoherpetologicodeantioquia.org/
+
+hasProcessingProvider=yes
+experimental=True
+deprecated=False
+tags=ecoacoustics,sampling,random,watershed,zonal,raster
+
+category=Analysis

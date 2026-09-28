@@ -1,7 +1,7 @@
 # MILEVA: Mapping-Informed Landscape Ecotopes for Versatile Acoustic Sampling
 
 ![MILEVA icon: flag](icon.svg)  
-![Grupo Herpetológico de Antioquia](logo_gha.png)
+
 
 **Version 0.4.1. Processing plugin for QGIS 4.x.**
 
@@ -12,6 +12,9 @@
 MILEVA helps design ecoacoustic subsampling schemes based on a spatial proxy. It implements the cartographic components and a distributional comparison of the published workflow. Acoustic performance assessment, interpolation, and the final scientific decision require additional analyses.
 
 > **Method citation:** Martínez-Arias, V. M., Paniagua-Villada, C., Guerrero, M. J., & Daza, J. M. (2026). A workflow to optimize spatial sampling in ecoacoustic studies. *Landscape Ecology, 41*, article 126. https://doi.org/10.1007/s10980-026-02372-5. See Supplementary Information S10.
+
+![Grupo Herpetológico de Antioquia](logo_gha.png)
+
 
 ## Installation
 
